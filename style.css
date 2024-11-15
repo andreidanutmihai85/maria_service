@@ -1,0 +1,163 @@
+
+.maria-btn{
+
+
+
+margin-left: -15%;
+
+  border-radius: none;
+  margin: none;
+  width: 300px;
+  background-color: rgb(60, 194, 7);
+  padding: 10px;
+  margin-bottom: 10px;
+  color: rgb(255, 255, 255);
+
+}
+.maria-btn:hover{
+  cursor:auto;
+  box-shadow: none;
+  transform: none;
+  border-radius: none;
+  margin: none;
+  width: 300px;
+  background-color: rgb(60, 194, 7);
+  margin-bottom: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.title_h2{
+  display: flex;
+  justify-content: center;
+  margin-left: -2vw;
+  color: aqua;
+  position: sticky;
+  top: 0;
+  margin-top: 220px;
+}
+
+.maria_title{
+text-align: center;
+color: #f81976;
+margin-top: 25vh;
+margin-bottom: -10vh;
+}
+
+/* .float1{
+
+background-color: rgb(0, 221, 0);
+border-radius: 50%;
+
+  
+} */
+
+/* button {
+    background-color:#6a67ce;
+    color: #ffffff;
+    border: 0px;
+    cursor:pointer;
+    border-radius: 10px;
+    width: 200px;
+    height: 60px;
+    font-size: 1rem;
+} */
+
+/* ====================================button======================= */
+
+button {
+  width: 200px;
+  height: 60px;
+  margin-top: 10px;
+  background-color: #0078d0;
+  border: 0;
+  border-radius: 56px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+  font-size: 100%;
+  font-weight: 600;
+  outline: 0;
+  padding: 16px 21px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+button:before {
+  background-color: initial;
+  background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
+  border-radius: 125px;
+  content: "";
+  height: 50%;
+  left: 4%;
+  opacity: .5;
+  position: absolute;
+  top: 0;
+  transition: all .3s;
+  width: 92%;
+}
+
+button:hover {
+  box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
+  transform: scale(1.05);
+}
+
+@media (min-width: 768px) {
+  button {
+    padding: 16px 48px;
+  }
+}
+/* ====================================button======================= */
+
+#msgr0{
+  margin-top: 8px;
+  padding: 8px 12px;
+}
+
+#msgID, #msg1, #msg2, #msg3, #msg4, #da, #nu, #da1, #nu1, #msgw2, #msgr2{
+    display: none;
+    margin-top: 8px;
+    padding: 8px 12px;
+    /* border-radius: 3px; */
+  } 
+
+
+  #msglID, #msgl1, #msgl2, #msgl3, #msgl4, #msgl5,#msgl6, #msgl7, #msgl8, #msgl9, #msgl10, #msgl11, #tel, #whatsapp, #form, #email, #msgc22, #msgc22 {
+    display: none;
+    margin-top: 8px;
+    padding: 8px 12px;
+    /* border-radius: 3px; */
+  } 
+
+
+  #msg22, #msgc1, #msgc2, #msgc3, #msgc4, #msgc5, #msgc6, #msgc7, #msgc8, #msgc9, #msgc10, #msgc11, #msgc30, #msgl111, #msgc111{
+    display: none;
+    margin-top: 8px;
+    padding: 8px 12px;
+    /* border-radius: 3px; */
+  } 
+
+
+  /* .answer{
+    padding:20px;
+    background-color:#d607c5;
+    color: #ffffff;
+    border: 0px;
+    cursor:pointer;
+    border-radius: 5px;
+    padding: 3px;
+  } */
+
+.mainDiv, .title_h2{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+
+
